@@ -34,14 +34,12 @@
     }
 .Khaki{
     width: 50%;
-    height: 450px;
     background-color: khaki;
     text-align: center;
 }
-.white{
+.White{
     width: 50%;
-    height: 450px;
-    text-align: center;
+    text-align:center;
 }
 .Footer-body{
     width: 100%;
